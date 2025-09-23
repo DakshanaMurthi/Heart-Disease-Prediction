@@ -1,0 +1,919 @@
+Age,Sex,ChestPainType,RestingBP,Cholesterol,RestingECG,MaxHR,ExerciseAngina,FastingBS_Num,HeartDisease
+40,MALE,Atypical Angina,140,289,Normal,172,NO,108,ABSENCE
+49,FEMALE,Non-Anginal Pain,160,180,Normal,156,NO,98,PRESENCE
+37,MALE,Atypical Angina,130,283,ST-T wave abnormality,98,NO,84,ABSENCE
+48,FEMALE,Asymptomatic,138,214,Normal,108,YES,112,PRESENCE
+54,MALE,Non-Anginal Pain,150,195,Normal,122,NO,77,ABSENCE
+39,MALE,Non-Anginal Pain,120,339,Normal,170,NO,90,ABSENCE
+45,FEMALE,Atypical Angina,130,237,Normal,170,NO,108,ABSENCE
+54,MALE,Atypical Angina,110,208,Normal,142,NO,88,ABSENCE
+37,MALE,Asymptomatic,140,207,Normal,130,YES,92,PRESENCE
+48,FEMALE,Atypical Angina,120,284,Normal,120,NO,80,ABSENCE
+37,FEMALE,Non-Anginal Pain,130,211,Normal,142,NO,80,ABSENCE
+58,MALE,Atypical Angina,136,164,ST-T wave abnormality,99,YES,93,PRESENCE
+39,MALE,Atypical Angina,120,204,Normal,145,NO,105,ABSENCE
+49,MALE,Asymptomatic,140,234,Normal,140,YES,109,PRESENCE
+42,FEMALE,Non-Anginal Pain,115,211,ST-T wave abnormality,137,NO,93,ABSENCE
+54,FEMALE,Atypical Angina,120,273,Normal,150,NO,72,ABSENCE
+38,MALE,Asymptomatic,110,196,Normal,166,NO,91,PRESENCE
+43,FEMALE,Atypical Angina,120,201,Normal,165,NO,71,ABSENCE
+60,MALE,Asymptomatic,100,248,Normal,125,NO,93,PRESENCE
+36,MALE,Atypical Angina,120,267,Normal,160,NO,113,PRESENCE
+43,FEMALE,Typical Angina,100,223,Normal,142,NO,99,ABSENCE
+44,MALE,Atypical Angina,120,184,Normal,142,NO,107,ABSENCE
+49,FEMALE,Atypical Angina,124,201,Normal,164,NO,71,ABSENCE
+44,MALE,Atypical Angina,150,288,Normal,150,YES,90,PRESENCE
+40,MALE,Non-Anginal Pain,130,215,Normal,138,NO,102,ABSENCE
+36,MALE,Non-Anginal Pain,130,209,Normal,178,NO,81,ABSENCE
+53,MALE,Asymptomatic,124,260,ST-T wave abnormality,112,YES,91,ABSENCE
+52,MALE,Atypical Angina,120,284,Normal,118,NO,113,ABSENCE
+53,FEMALE,Atypical Angina,113,468,Normal,127,NO,94,ABSENCE
+51,MALE,Atypical Angina,125,188,Normal,145,NO,118,ABSENCE
+53,MALE,Non-Anginal Pain,145,518,Normal,130,NO,96,PRESENCE
+56,MALE,Non-Anginal Pain,130,167,Normal,114,NO,111,ABSENCE
+54,MALE,Asymptomatic,125,224,Normal,122,NO,97,PRESENCE
+41,MALE,Asymptomatic,130,172,ST-T wave abnormality,130,NO,85,PRESENCE
+43,FEMALE,Atypical Angina,150,186,Normal,154,NO,84,ABSENCE
+32,MALE,Atypical Angina,125,254,Normal,155,NO,116,ABSENCE
+65,MALE,Asymptomatic,140,306,Normal,87,YES,182,PRESENCE
+41,FEMALE,Atypical Angina,110,250,ST-T wave abnormality,142,NO,120,ABSENCE
+48,FEMALE,Atypical Angina,120,177,ST-T wave abnormality,148,NO,175,ABSENCE
+48,FEMALE,Asymptomatic,150,227,Normal,130,YES,72,ABSENCE
+54,FEMALE,Atypical Angina,150,230,Normal,130,NO,106,ABSENCE
+54,FEMALE,Non-Anginal Pain,130,294,ST-T wave abnormality,100,YES,120,PRESENCE
+35,MALE,Atypical Angina,150,264,Normal,168,NO,76,ABSENCE
+52,MALE,Non-Anginal Pain,140,259,ST-T wave abnormality,170,NO,90,ABSENCE
+43,MALE,Asymptomatic,120,175,Normal,120,YES,78,PRESENCE
+59,MALE,Non-Anginal Pain,130,318,Normal,120,YES,108,ABSENCE
+37,MALE,Asymptomatic,120,223,Normal,168,NO,87,ABSENCE
+50,MALE,Atypical Angina,140,216,Normal,170,NO,73,ABSENCE
+36,MALE,Non-Anginal Pain,112,340,Normal,184,NO,94,ABSENCE
+41,MALE,Asymptomatic,110,289,Normal,170,NO,83,PRESENCE
+50,MALE,Asymptomatic,130,233,Normal,121,YES,119,PRESENCE
+47,FEMALE,Asymptomatic,120,205,Normal,98,YES,78,PRESENCE
+45,MALE,Atypical Angina,140,224,Normal,122,NO,173,ABSENCE
+41,FEMALE,Atypical Angina,130,245,Normal,150,NO,71,ABSENCE
+52,FEMALE,Asymptomatic,130,180,Normal,140,YES,89,ABSENCE
+51,FEMALE,Atypical Angina,160,194,Normal,170,NO,97,ABSENCE
+31,MALE,Asymptomatic,120,270,Normal,153,YES,116,PRESENCE
+58,MALE,Non-Anginal Pain,130,213,ST-T wave abnormality,140,NO,76,PRESENCE
+54,MALE,Asymptomatic,150,365,ST-T wave abnormality,134,NO,113,ABSENCE
+52,MALE,Asymptomatic,112,342,ST-T wave abnormality,96,YES,77,PRESENCE
+49,MALE,Atypical Angina,100,253,Normal,174,NO,116,ABSENCE
+43,FEMALE,Non-Anginal Pain,150,254,Normal,175,NO,104,ABSENCE
+45,MALE,Asymptomatic,140,224,Normal,144,NO,83,ABSENCE
+46,MALE,Asymptomatic,120,277,Normal,125,YES,86,PRESENCE
+50,FEMALE,Atypical Angina,110,202,Normal,145,NO,105,ABSENCE
+37,FEMALE,Atypical Angina,120,260,Normal,130,NO,119,ABSENCE
+45,FEMALE,Asymptomatic,132,297,Normal,144,NO,109,ABSENCE
+32,MALE,Atypical Angina,110,225,Normal,184,NO,73,ABSENCE
+52,MALE,Asymptomatic,160,246,ST-T wave abnormality,82,YES,71,PRESENCE
+44,MALE,Asymptomatic,150,412,Normal,170,NO,75,ABSENCE
+57,MALE,Atypical Angina,140,265,ST-T wave abnormality,145,YES,111,PRESENCE
+44,MALE,Atypical Angina,130,215,Normal,135,NO,73,ABSENCE
+52,MALE,Asymptomatic,120,182,Normal,150,NO,98,PRESENCE
+44,FEMALE,Asymptomatic,120,218,ST-T wave abnormality,115,NO,87,ABSENCE
+55,MALE,Asymptomatic,140,268,Normal,128,YES,95,PRESENCE
+46,MALE,Non-Anginal Pain,150,163,Normal,116,NO,113,ABSENCE
+32,MALE,Asymptomatic,118,529,Normal,130,NO,103,PRESENCE
+35,FEMALE,Asymptomatic,140,167,Normal,150,NO,79,ABSENCE
+52,MALE,Atypical Angina,140,100,Normal,138,YES,105,ABSENCE
+49,MALE,Asymptomatic,130,206,Normal,170,NO,83,PRESENCE
+55,MALE,Non-Anginal Pain,110,277,Normal,160,NO,100,ABSENCE
+54,MALE,Atypical Angina,120,238,Normal,154,NO,117,ABSENCE
+63,MALE,Asymptomatic,150,223,Normal,115,NO,84,PRESENCE
+52,MALE,Atypical Angina,160,196,Normal,165,NO,77,ABSENCE
+56,MALE,Asymptomatic,150,213,Normal,125,YES,198,PRESENCE
+66,MALE,Asymptomatic,140,139,Normal,94,YES,92,PRESENCE
+65,MALE,Asymptomatic,170,263,Normal,112,YES,182,PRESENCE
+53,FEMALE,Atypical Angina,140,216,Normal,142,YES,109,ABSENCE
+43,MALE,Typical Angina,120,291,ST-T wave abnormality,155,NO,90,PRESENCE
+55,MALE,Asymptomatic,140,229,Normal,110,YES,85,ABSENCE
+49,FEMALE,Atypical Angina,110,208,Normal,160,NO,114,ABSENCE
+39,MALE,Asymptomatic,130,307,Normal,140,NO,87,ABSENCE
+52,FEMALE,Atypical Angina,120,210,Normal,148,NO,116,ABSENCE
+48,MALE,Asymptomatic,160,329,Normal,92,YES,93,PRESENCE
+39,FEMALE,Non-Anginal Pain,110,182,ST-T wave abnormality,180,NO,95,ABSENCE
+58,MALE,Asymptomatic,130,263,Normal,140,YES,94,PRESENCE
+43,MALE,Atypical Angina,142,207,Normal,138,NO,114,ABSENCE
+39,MALE,Non-Anginal Pain,160,147,Normal,160,NO,161,ABSENCE
+56,MALE,Asymptomatic,120,85,Normal,140,NO,98,ABSENCE
+41,MALE,Atypical Angina,125,269,Normal,144,NO,84,ABSENCE
+65,MALE,Asymptomatic,130,275,ST-T wave abnormality,115,YES,114,PRESENCE
+51,MALE,Asymptomatic,130,179,Normal,100,NO,70,ABSENCE
+40,FEMALE,Asymptomatic,150,392,Normal,130,NO,94,PRESENCE
+40,MALE,Asymptomatic,120,466,Normal,152,YES,191,PRESENCE
+46,MALE,Asymptomatic,118,186,Normal,124,NO,78,PRESENCE
+57,MALE,Atypical Angina,140,260,Normal,140,NO,121,ABSENCE
+48,FEMALE,Asymptomatic,120,254,ST-T wave abnormality,110,NO,113,ABSENCE
+34,MALE,Atypical Angina,150,214,ST-T wave abnormality,168,NO,77,ABSENCE
+50,MALE,Asymptomatic,140,129,Normal,135,NO,93,ABSENCE
+39,MALE,Atypical Angina,190,241,Normal,106,NO,80,ABSENCE
+59,FEMALE,Atypical Angina,130,188,Normal,124,NO,120,ABSENCE
+57,MALE,Asymptomatic,150,255,Normal,92,YES,86,PRESENCE
+47,MALE,Asymptomatic,140,276,Normal,125,YES,128,ABSENCE
+38,MALE,Atypical Angina,140,297,Normal,150,NO,104,ABSENCE
+49,FEMALE,Non-Anginal Pain,130,207,ST-T wave abnormality,135,NO,104,ABSENCE
+33,FEMALE,Asymptomatic,100,246,Normal,150,YES,102,PRESENCE
+38,MALE,Asymptomatic,120,282,Normal,170,NO,74,PRESENCE
+59,FEMALE,Asymptomatic,130,338,ST-T wave abnormality,130,YES,161,PRESENCE
+35,FEMALE,Typical Angina,120,160,ST-T wave abnormality,185,NO,97,ABSENCE
+34,MALE,Typical Angina,140,156,Normal,180,NO,76,PRESENCE
+47,FEMALE,Non-Anginal Pain,135,248,Normal,170,NO,193,PRESENCE
+52,FEMALE,Non-Anginal Pain,125,272,Normal,139,NO,77,ABSENCE
+46,MALE,Asymptomatic,110,240,ST-T wave abnormality,140,NO,81,ABSENCE
+58,FEMALE,Atypical Angina,180,393,Normal,110,YES,103,PRESENCE
+58,MALE,Atypical Angina,130,230,Normal,150,NO,102,ABSENCE
+54,MALE,Atypical Angina,120,246,Normal,110,NO,117,ABSENCE
+34,FEMALE,Atypical Angina,130,161,Normal,190,NO,92,ABSENCE
+48,FEMALE,Asymptomatic,108,163,Normal,175,NO,93,ABSENCE
+54,FEMALE,Atypical Angina,120,230,Normal,140,NO,157,ABSENCE
+42,MALE,Non-Anginal Pain,120,228,Normal,152,YES,104,ABSENCE
+38,MALE,Non-Anginal Pain,145,292,Normal,130,NO,113,ABSENCE
+46,MALE,Asymptomatic,110,202,Normal,150,YES,109,PRESENCE
+56,MALE,Asymptomatic,170,388,ST-T wave abnormality,122,YES,91,PRESENCE
+56,MALE,Asymptomatic,150,230,ST-T wave abnormality,124,YES,96,PRESENCE
+61,FEMALE,Asymptomatic,130,294,ST-T wave abnormality,120,YES,104,ABSENCE
+49,MALE,Non-Anginal Pain,115,265,Normal,175,NO,70,PRESENCE
+43,FEMALE,Atypical Angina,120,215,ST-T wave abnormality,175,NO,104,ABSENCE
+39,MALE,Atypical Angina,120,241,ST-T wave abnormality,146,NO,106,ABSENCE
+54,MALE,Asymptomatic,140,166,Normal,118,YES,116,PRESENCE
+43,MALE,Asymptomatic,150,247,Normal,130,YES,83,PRESENCE
+52,MALE,Asymptomatic,160,331,Normal,94,YES,72,PRESENCE
+50,MALE,Asymptomatic,140,341,ST-T wave abnormality,125,YES,70,PRESENCE
+47,MALE,Asymptomatic,160,291,ST-T wave abnormality,158,YES,74,PRESENCE
+53,MALE,Asymptomatic,140,243,Normal,155,NO,95,ABSENCE
+56,FEMALE,Atypical Angina,120,279,Normal,150,NO,83,PRESENCE
+39,MALE,Asymptomatic,110,273,Normal,132,NO,108,ABSENCE
+42,MALE,Atypical Angina,120,198,Normal,155,NO,96,ABSENCE
+43,FEMALE,Atypical Angina,120,249,ST-T wave abnormality,176,NO,78,ABSENCE
+50,MALE,Atypical Angina,120,168,Normal,160,NO,84,ABSENCE
+54,MALE,Asymptomatic,130,603,Normal,125,YES,135,PRESENCE
+39,MALE,Atypical Angina,130,215,Normal,120,NO,95,ABSENCE
+48,MALE,Atypical Angina,100,159,Normal,100,NO,111,ABSENCE
+40,MALE,Atypical Angina,130,275,Normal,150,NO,82,ABSENCE
+55,MALE,Asymptomatic,120,270,Normal,140,NO,120,ABSENCE
+41,MALE,Atypical Angina,120,291,ST-T wave abnormality,160,NO,101,ABSENCE
+56,MALE,Asymptomatic,155,342,Normal,150,YES,172,PRESENCE
+38,MALE,Asymptomatic,110,190,Normal,150,YES,101,PRESENCE
+49,MALE,Asymptomatic,140,185,Normal,130,NO,73,ABSENCE
+44,MALE,Asymptomatic,130,290,Normal,100,YES,99,PRESENCE
+54,MALE,Atypical Angina,160,195,ST-T wave abnormality,130,NO,106,ABSENCE
+59,MALE,Asymptomatic,140,264,Left Ventricular Hypertrophy,119,YES,143,PRESENCE
+49,MALE,Asymptomatic,128,212,Normal,96,YES,108,PRESENCE
+47,MALE,Atypical Angina,160,263,Normal,174,NO,114,ABSENCE
+42,MALE,Atypical Angina,120,196,Normal,150,NO,84,ABSENCE
+52,FEMALE,Atypical Angina,140,225,Normal,140,NO,112,ABSENCE
+46,MALE,Typical Angina,140,272,Normal,175,NO,149,PRESENCE
+50,MALE,Asymptomatic,140,231,ST-T wave abnormality,140,YES,105,PRESENCE
+48,MALE,Atypical Angina,140,238,Normal,118,NO,82,ABSENCE
+58,MALE,Asymptomatic,135,222,Normal,100,NO,101,ABSENCE
+58,MALE,Non-Anginal Pain,140,179,Normal,160,NO,76,ABSENCE
+29,MALE,Atypical Angina,120,243,Normal,160,NO,120,ABSENCE
+40,MALE,Non-Anginal Pain,140,235,Normal,188,NO,91,ABSENCE
+53,MALE,Atypical Angina,140,320,Normal,162,NO,97,ABSENCE
+49,MALE,Non-Anginal Pain,140,187,Normal,172,NO,71,ABSENCE
+52,MALE,Asymptomatic,140,266,Normal,134,YES,111,PRESENCE
+43,MALE,Asymptomatic,140,288,Normal,135,YES,114,PRESENCE
+54,MALE,Asymptomatic,140,216,Normal,105,NO,75,PRESENCE
+59,MALE,Atypical Angina,140,287,Normal,150,NO,97,ABSENCE
+37,MALE,Non-Anginal Pain,130,194,Normal,150,NO,97,ABSENCE
+46,FEMALE,Asymptomatic,130,238,Normal,90,NO,113,ABSENCE
+52,MALE,Asymptomatic,130,225,Normal,120,YES,113,PRESENCE
+51,MALE,Atypical Angina,130,224,Normal,150,NO,89,ABSENCE
+52,MALE,Asymptomatic,140,404,Normal,124,YES,99,PRESENCE
+46,MALE,Asymptomatic,110,238,ST-T wave abnormality,140,YES,80,ABSENCE
+54,FEMALE,Atypical Angina,160,312,Normal,130,NO,97,ABSENCE
+58,MALE,Non-Anginal Pain,160,211,ST-T wave abnormality,92,NO,182,PRESENCE
+58,MALE,Atypical Angina,130,251,Normal,110,NO,102,ABSENCE
+41,MALE,Asymptomatic,120,237,Normal,138,YES,121,PRESENCE
+50,FEMALE,Asymptomatic,120,328,Normal,110,YES,96,ABSENCE
+53,MALE,Asymptomatic,180,285,ST-T wave abnormality,120,YES,82,PRESENCE
+46,MALE,Asymptomatic,180,280,ST-T wave abnormality,120,NO,110,ABSENCE
+50,MALE,Atypical Angina,170,209,ST-T wave abnormality,116,NO,72,ABSENCE
+48,MALE,Atypical Angina,130,245,Normal,160,NO,108,ABSENCE
+45,MALE,Non-Anginal Pain,135,192,Normal,110,NO,75,ABSENCE
+41,FEMALE,Atypical Angina,125,184,Normal,180,NO,77,ABSENCE
+62,FEMALE,Typical Angina,160,193,Normal,116,NO,96,ABSENCE
+49,MALE,Asymptomatic,120,297,Normal,132,NO,78,ABSENCE
+42,MALE,Atypical Angina,150,268,Normal,136,NO,106,ABSENCE
+53,MALE,Asymptomatic,120,246,Normal,116,YES,102,PRESENCE
+57,FEMALE,Typical Angina,130,308,Normal,98,NO,120,ABSENCE
+47,MALE,Typical Angina,110,249,Normal,150,NO,111,ABSENCE
+46,MALE,Non-Anginal Pain,120,230,Normal,150,NO,113,ABSENCE
+42,MALE,Non-Anginal Pain,160,147,Normal,146,NO,93,ABSENCE
+31,FEMALE,Atypical Angina,100,219,ST-T wave abnormality,150,NO,84,ABSENCE
+56,MALE,Atypical Angina,130,184,Normal,100,NO,101,ABSENCE
+50,MALE,Asymptomatic,150,215,Normal,140,YES,101,ABSENCE
+35,MALE,Atypical Angina,120,308,Left Ventricular Hypertrophy,180,NO,93,ABSENCE
+35,MALE,Atypical Angina,110,257,Normal,140,NO,110,PRESENCE
+28,MALE,Atypical Angina,130,132,Left Ventricular Hypertrophy,185,NO,118,ABSENCE
+54,MALE,Asymptomatic,125,216,Normal,140,NO,118,PRESENCE
+48,MALE,Asymptomatic,106,263,Normal,110,NO,178,PRESENCE
+50,FEMALE,Non-Anginal Pain,140,288,Normal,140,YES,81,PRESENCE
+56,MALE,Non-Anginal Pain,130,276,Normal,128,YES,108,ABSENCE
+56,FEMALE,Non-Anginal Pain,130,219,ST-T wave abnormality,164,NO,71,ABSENCE
+47,MALE,Asymptomatic,150,226,Normal,98,YES,72,PRESENCE
+30,FEMALE,Typical Angina,170,237,ST-T wave abnormality,170,NO,118,ABSENCE
+39,MALE,Asymptomatic,110,280,Normal,150,NO,106,PRESENCE
+54,MALE,Non-Anginal Pain,120,217,Normal,137,NO,118,ABSENCE
+55,MALE,Atypical Angina,140,196,Normal,150,NO,86,ABSENCE
+29,MALE,Atypical Angina,140,263,Normal,170,NO,118,ABSENCE
+46,MALE,Asymptomatic,130,222,Normal,112,NO,71,PRESENCE
+51,FEMALE,Asymptomatic,160,303,Normal,150,YES,71,PRESENCE
+48,FEMALE,Non-Anginal Pain,120,195,Normal,125,NO,97,ABSENCE
+33,MALE,Non-Anginal Pain,120,298,Normal,185,NO,92,ABSENCE
+55,MALE,Atypical Angina,120,256,Normal,137,NO,121,ABSENCE
+50,MALE,Asymptomatic,145,264,Normal,150,NO,88,PRESENCE
+53,MALE,Non-Anginal Pain,120,195,Normal,140,NO,71,ABSENCE
+38,MALE,Asymptomatic,92,117,Normal,134,YES,113,PRESENCE
+41,MALE,Atypical Angina,120,295,Normal,170,NO,95,ABSENCE
+37,FEMALE,Asymptomatic,130,173,ST-T wave abnormality,184,NO,101,ABSENCE
+37,MALE,Asymptomatic,130,315,Normal,158,NO,75,ABSENCE
+40,MALE,Non-Anginal Pain,130,281,Normal,167,NO,101,ABSENCE
+38,FEMALE,Atypical Angina,120,275,Normal,129,NO,73,ABSENCE
+41,MALE,Asymptomatic,112,250,Normal,142,NO,80,ABSENCE
+54,FEMALE,Atypical Angina,140,309,ST-T wave abnormality,140,NO,86,ABSENCE
+39,MALE,Atypical Angina,120,200,Normal,160,YES,107,ABSENCE
+41,MALE,Asymptomatic,120,336,Normal,118,YES,93,PRESENCE
+55,MALE,Typical Angina,140,295,Normal,136,NO,74,PRESENCE
+48,MALE,Asymptomatic,160,355,Normal,99,YES,103,PRESENCE
+48,MALE,Asymptomatic,160,193,Normal,102,YES,75,PRESENCE
+55,MALE,Atypical Angina,145,326,Normal,155,NO,91,ABSENCE
+54,MALE,Asymptomatic,200,198,Normal,142,YES,80,PRESENCE
+55,MALE,Atypical Angina,160,292,Normal,143,YES,136,PRESENCE
+43,FEMALE,Atypical Angina,120,266,Normal,118,NO,102,ABSENCE
+48,MALE,Asymptomatic,160,268,Normal,103,YES,78,PRESENCE
+54,MALE,Typical Angina,120,171,Normal,137,NO,75,ABSENCE
+54,MALE,Non-Anginal Pain,120,237,Normal,150,YES,85,PRESENCE
+48,MALE,Asymptomatic,122,275,ST-T wave abnormality,150,YES,123,PRESENCE
+45,MALE,Asymptomatic,130,219,ST-T wave abnormality,130,YES,89,PRESENCE
+49,MALE,Asymptomatic,130,341,Normal,120,YES,105,PRESENCE
+44,MALE,Asymptomatic,135,491,Normal,135,NO,88,PRESENCE
+48,MALE,Asymptomatic,120,260,Normal,115,NO,95,PRESENCE
+61,MALE,Asymptomatic,125,292,ST-T wave abnormality,115,YES,72,ABSENCE
+62,MALE,Atypical Angina,140,271,Normal,152,NO,88,ABSENCE
+55,MALE,Asymptomatic,145,248,Normal,96,YES,89,PRESENCE
+53,FEMALE,Non-Anginal Pain,120,274,Normal,130,NO,101,ABSENCE
+55,FEMALE,Atypical Angina,130,394,Left Ventricular Hypertrophy,150,NO,76,ABSENCE
+36,MALE,Non-Anginal Pain,150,160,Normal,172,NO,110,ABSENCE
+51,FEMALE,Non-Anginal Pain,150,200,Normal,120,NO,102,ABSENCE
+55,FEMALE,Atypical Angina,122,320,Normal,155,NO,109,ABSENCE
+46,MALE,Atypical Angina,140,275,Normal,165,YES,108,ABSENCE
+54,FEMALE,Atypical Angina,120,221,Normal,138,NO,87,ABSENCE
+46,MALE,Asymptomatic,120,231,Normal,115,YES,109,PRESENCE
+59,MALE,Asymptomatic,130,126,Normal,125,NO,70,PRESENCE
+47,MALE,Non-Anginal Pain,140,193,Normal,145,YES,80,PRESENCE
+54,MALE,Atypical Angina,160,305,Normal,175,NO,97,ABSENCE
+52,MALE,Asymptomatic,130,298,Normal,110,YES,94,PRESENCE
+34,MALE,Atypical Angina,98,220,Normal,150,NO,119,ABSENCE
+54,MALE,Asymptomatic,130,242,Normal,91,YES,92,PRESENCE
+47,FEMALE,Non-Anginal Pain,130,235,Normal,145,NO,100,ABSENCE
+45,MALE,Asymptomatic,120,225,Normal,140,NO,99,ABSENCE
+32,FEMALE,Atypical Angina,105,198,Normal,165,NO,111,ABSENCE
+55,MALE,Asymptomatic,140,201,Normal,130,YES,104,PRESENCE
+55,MALE,Non-Anginal Pain,120,220,Left Ventricular Hypertrophy,134,NO,76,ABSENCE
+45,FEMALE,Atypical Angina,180,295,Normal,180,NO,85,ABSENCE
+59,MALE,Non-Anginal Pain,180,213,Normal,100,NO,95,ABSENCE
+51,MALE,Non-Anginal Pain,135,160,Normal,150,NO,117,PRESENCE
+52,MALE,Asymptomatic,170,223,Normal,126,YES,118,PRESENCE
+57,FEMALE,Asymptomatic,180,347,ST-T wave abnormality,126,YES,71,ABSENCE
+54,FEMALE,Atypical Angina,130,253,ST-T wave abnormality,155,NO,70,ABSENCE
+60,MALE,Non-Anginal Pain,120,246,Left Ventricular Hypertrophy,135,NO,117,ABSENCE
+49,MALE,Asymptomatic,150,222,Normal,122,NO,81,PRESENCE
+51,FEMALE,Non-Anginal Pain,130,220,Normal,160,YES,74,ABSENCE
+55,FEMALE,Atypical Angina,110,344,ST-T wave abnormality,160,NO,106,ABSENCE
+42,MALE,Asymptomatic,140,358,Normal,170,NO,101,ABSENCE
+51,FEMALE,Non-Anginal Pain,110,190,Normal,120,NO,78,ABSENCE
+59,MALE,Asymptomatic,140,169,Normal,140,NO,110,ABSENCE
+53,MALE,Atypical Angina,120,181,Normal,132,NO,104,ABSENCE
+48,FEMALE,Atypical Angina,133,308,ST-T wave abnormality,156,NO,88,ABSENCE
+36,MALE,Atypical Angina,120,166,Normal,180,NO,117,ABSENCE
+48,MALE,Non-Anginal Pain,110,211,Normal,138,NO,85,ABSENCE
+47,FEMALE,Atypical Angina,140,257,Normal,135,NO,72,ABSENCE
+53,MALE,Asymptomatic,130,182,Normal,148,NO,89,ABSENCE
+65,MALE,Asymptomatic,115,0,Normal,93,YES,93,PRESENCE
+32,MALE,Typical Angina,95,0,Normal,127,NO,174,PRESENCE
+61,MALE,Asymptomatic,105,0,Normal,110,YES,153,PRESENCE
+50,MALE,Asymptomatic,145,0,Normal,139,YES,144,PRESENCE
+57,MALE,Asymptomatic,110,0,ST-T wave abnormality,131,YES,195,PRESENCE
+51,MALE,Asymptomatic,110,0,Normal,92,NO,192,PRESENCE
+47,MALE,Asymptomatic,110,0,ST-T wave abnormality,149,NO,156,PRESENCE
+60,MALE,Asymptomatic,160,0,Normal,149,NO,158,PRESENCE
+55,MALE,Atypical Angina,140,0,ST-T wave abnormality,150,NO,109,ABSENCE
+53,MALE,Asymptomatic,125,0,Normal,120,NO,145,PRESENCE
+62,FEMALE,Asymptomatic,120,0,ST-T wave abnormality,123,YES,138,PRESENCE
+51,MALE,Asymptomatic,95,0,Normal,126,NO,186,PRESENCE
+51,FEMALE,Asymptomatic,120,0,Normal,127,YES,174,PRESENCE
+55,MALE,Asymptomatic,115,0,Normal,155,NO,155,PRESENCE
+53,MALE,Atypical Angina,130,0,ST-T wave abnormality,120,NO,85,ABSENCE
+58,MALE,Asymptomatic,115,0,Normal,138,NO,181,PRESENCE
+57,MALE,Asymptomatic,95,0,Normal,182,NO,161,PRESENCE
+65,MALE,Asymptomatic,155,0,Normal,154,NO,105,ABSENCE
+60,MALE,Asymptomatic,125,0,Normal,110,NO,153,PRESENCE
+41,MALE,Asymptomatic,125,0,Normal,176,NO,188,PRESENCE
+34,MALE,Asymptomatic,115,0,Normal,154,NO,153,PRESENCE
+53,MALE,Asymptomatic,80,0,Normal,141,YES,83,ABSENCE
+74,MALE,Atypical Angina,145,0,ST-T wave abnormality,123,NO,141,PRESENCE
+57,MALE,Non-Anginal Pain,105,0,Normal,148,NO,168,PRESENCE
+56,MALE,Asymptomatic,140,0,Normal,121,YES,140,PRESENCE
+61,MALE,Asymptomatic,130,0,Normal,77,NO,128,PRESENCE
+68,MALE,Asymptomatic,145,0,Normal,136,NO,127,PRESENCE
+59,MALE,Non-Anginal Pain,125,0,Normal,175,NO,187,PRESENCE
+63,MALE,Asymptomatic,100,0,Normal,109,NO,137,PRESENCE
+38,FEMALE,Asymptomatic,105,0,Normal,166,NO,153,PRESENCE
+62,MALE,Asymptomatic,115,0,Normal,128,YES,168,PRESENCE
+46,MALE,Asymptomatic,100,0,ST-T wave abnormality,133,NO,196,PRESENCE
+42,MALE,Asymptomatic,105,0,Normal,128,YES,179,PRESENCE
+45,MALE,Non-Anginal Pain,110,0,Normal,138,NO,120,ABSENCE
+59,MALE,Asymptomatic,125,0,Normal,119,YES,142,PRESENCE
+52,MALE,Asymptomatic,95,0,Normal,82,YES,150,PRESENCE
+60,MALE,Asymptomatic,130,0,ST-T wave abnormality,130,YES,158,PRESENCE
+60,MALE,Non-Anginal Pain,115,0,Normal,143,NO,171,PRESENCE
+56,MALE,Asymptomatic,115,0,ST-T wave abnormality,82,NO,174,PRESENCE
+38,MALE,Non-Anginal Pain,100,0,Normal,179,NO,77,ABSENCE
+40,MALE,Asymptomatic,95,0,ST-T wave abnormality,144,NO,147,PRESENCE
+51,MALE,Asymptomatic,130,0,Normal,170,NO,147,PRESENCE
+62,MALE,Typical Angina,120,0,Left Ventricular Hypertrophy,134,NO,141,PRESENCE
+72,MALE,Non-Anginal Pain,160,0,Left Ventricular Hypertrophy,114,NO,99,ABSENCE
+63,MALE,Asymptomatic,150,0,ST-T wave abnormality,154,NO,148,PRESENCE
+63,MALE,Asymptomatic,140,0,Left Ventricular Hypertrophy,149,NO,184,PRESENCE
+64,FEMALE,Asymptomatic,95,0,Normal,145,NO,189,PRESENCE
+43,MALE,Asymptomatic,100,0,Normal,122,NO,181,PRESENCE
+64,MALE,Asymptomatic,110,0,Normal,114,YES,168,PRESENCE
+61,MALE,Asymptomatic,110,0,Normal,113,NO,139,PRESENCE
+52,MALE,Asymptomatic,130,0,Normal,120,NO,124,PRESENCE
+51,MALE,Asymptomatic,120,0,Normal,104,NO,155,PRESENCE
+69,MALE,Asymptomatic,135,0,Normal,130,NO,118,PRESENCE
+59,MALE,Asymptomatic,120,0,Normal,115,NO,86,PRESENCE
+48,MALE,Asymptomatic,115,0,Normal,128,NO,164,PRESENCE
+69,MALE,Asymptomatic,137,0,ST-T wave abnormality,104,YES,97,PRESENCE
+36,MALE,Asymptomatic,110,0,Normal,125,YES,150,PRESENCE
+53,MALE,Asymptomatic,120,0,Normal,120,NO,166,PRESENCE
+43,MALE,Asymptomatic,140,0,ST-T wave abnormality,140,YES,75,PRESENCE
+56,MALE,Asymptomatic,120,0,ST-T wave abnormality,100,YES,104,PRESENCE
+58,MALE,Asymptomatic,130,0,ST-T wave abnormality,100,YES,110,PRESENCE
+55,MALE,Asymptomatic,120,0,ST-T wave abnormality,92,NO,106,PRESENCE
+67,MALE,Typical Angina,145,0,Left Ventricular Hypertrophy,125,NO,93,PRESENCE
+46,MALE,Asymptomatic,115,0,Normal,113,YES,98,PRESENCE
+53,MALE,Atypical Angina,120,0,Normal,95,NO,118,PRESENCE
+38,MALE,Non-Anginal Pain,115,0,Normal,128,YES,115,PRESENCE
+53,MALE,Non-Anginal Pain,105,0,Normal,115,NO,100,PRESENCE
+62,MALE,Non-Anginal Pain,160,0,Normal,72,YES,104,PRESENCE
+47,MALE,Asymptomatic,160,0,Normal,124,YES,102,PRESENCE
+56,MALE,Non-Anginal Pain,155,0,ST-T wave abnormality,99,NO,90,PRESENCE
+56,MALE,Asymptomatic,120,0,ST-T wave abnormality,148,NO,101,PRESENCE
+56,MALE,Non-Anginal Pain,120,0,Normal,97,NO,92,ABSENCE
+64,FEMALE,Asymptomatic,200,0,Normal,140,YES,102,PRESENCE
+61,MALE,Asymptomatic,150,0,Normal,117,YES,72,PRESENCE
+68,MALE,Asymptomatic,135,0,ST-T wave abnormality,120,YES,87,PRESENCE
+57,MALE,Asymptomatic,140,0,Normal,120,YES,94,PRESENCE
+63,MALE,Asymptomatic,150,0,Normal,86,YES,111,PRESENCE
+60,MALE,Asymptomatic,135,0,Normal,63,YES,100,PRESENCE
+66,MALE,Asymptomatic,150,0,Normal,108,YES,72,PRESENCE
+63,MALE,Asymptomatic,185,0,Normal,98,YES,109,PRESENCE
+59,MALE,Asymptomatic,135,0,Normal,115,YES,115,PRESENCE
+61,MALE,Asymptomatic,125,0,Normal,105,YES,93,PRESENCE
+73,FEMALE,Non-Anginal Pain,160,0,ST-T wave abnormality,121,NO,119,PRESENCE
+47,MALE,Non-Anginal Pain,155,0,Normal,118,YES,101,PRESENCE
+65,MALE,Asymptomatic,160,0,ST-T wave abnormality,122,NO,167,PRESENCE
+70,MALE,Asymptomatic,140,0,Normal,157,YES,143,PRESENCE
+50,MALE,Asymptomatic,120,0,ST-T wave abnormality,156,YES,71,PRESENCE
+60,MALE,Asymptomatic,160,0,ST-T wave abnormality,99,YES,96,PRESENCE
+50,MALE,Asymptomatic,115,0,Normal,120,YES,111,PRESENCE
+43,MALE,Asymptomatic,115,0,Normal,145,YES,71,PRESENCE
+38,FEMALE,Asymptomatic,110,0,Normal,156,NO,95,PRESENCE
+54,MALE,Asymptomatic,120,0,Normal,155,NO,86,PRESENCE
+61,MALE,Asymptomatic,150,0,Normal,105,YES,109,PRESENCE
+42,MALE,Asymptomatic,145,0,Normal,99,YES,102,PRESENCE
+53,MALE,Asymptomatic,130,0,Left Ventricular Hypertrophy,135,YES,78,PRESENCE
+55,MALE,Asymptomatic,140,0,Normal,83,NO,112,PRESENCE
+61,MALE,Asymptomatic,160,0,ST-T wave abnormality,145,NO,168,PRESENCE
+51,MALE,Asymptomatic,140,0,Normal,60,NO,108,PRESENCE
+70,MALE,Asymptomatic,115,0,ST-T wave abnormality,92,YES,98,PRESENCE
+61,MALE,Asymptomatic,130,0,Left Ventricular Hypertrophy,115,NO,111,PRESENCE
+38,MALE,Asymptomatic,150,0,Normal,120,YES,146,PRESENCE
+57,MALE,Asymptomatic,160,0,Normal,98,YES,170,PRESENCE
+38,MALE,Asymptomatic,135,0,Normal,150,NO,145,PRESENCE
+62,FEMALE,Typical Angina,140,0,Normal,143,NO,144,PRESENCE
+58,MALE,Asymptomatic,170,0,ST-T wave abnormality,105,YES,133,PRESENCE
+52,MALE,Asymptomatic,165,0,Normal,122,YES,180,PRESENCE
+61,MALE,Non-Anginal Pain,200,0,ST-T wave abnormality,70,NO,127,PRESENCE
+50,FEMALE,Asymptomatic,160,0,Normal,110,NO,177,PRESENCE
+51,MALE,Asymptomatic,130,0,ST-T wave abnormality,163,NO,156,PRESENCE
+65,MALE,Asymptomatic,145,0,ST-T wave abnormality,67,NO,165,PRESENCE
+52,MALE,Asymptomatic,135,0,Normal,128,YES,140,PRESENCE
+47,MALE,Non-Anginal Pain,110,0,Normal,120,YES,185,PRESENCE
+35,MALE,Asymptomatic,120,0,Normal,130,YES,128,PRESENCE
+57,MALE,Asymptomatic,140,0,Normal,100,YES,136,PRESENCE
+62,MALE,Asymptomatic,115,0,Normal,72,YES,134,PRESENCE
+59,MALE,Asymptomatic,110,0,Normal,94,NO,196,PRESENCE
+53,MALE,Non-Anginal Pain,160,0,Left Ventricular Hypertrophy,122,YES,135,PRESENCE
+62,MALE,Asymptomatic,150,0,ST-T wave abnormality,78,NO,186,PRESENCE
+54,MALE,Asymptomatic,180,0,Normal,150,NO,152,PRESENCE
+56,MALE,Asymptomatic,125,0,Normal,103,YES,183,PRESENCE
+56,MALE,Non-Anginal Pain,125,0,Normal,98,NO,171,PRESENCE
+54,MALE,Asymptomatic,130,0,Normal,110,YES,145,PRESENCE
+66,FEMALE,Asymptomatic,155,0,Normal,90,NO,178,PRESENCE
+63,MALE,Asymptomatic,140,260,ST-T wave abnormality,112,YES,91,PRESENCE
+44,MALE,Asymptomatic,130,209,ST-T wave abnormality,127,NO,91,ABSENCE
+60,MALE,Asymptomatic,132,218,ST-T wave abnormality,140,YES,118,PRESENCE
+55,MALE,Asymptomatic,142,228,ST-T wave abnormality,149,YES,111,PRESENCE
+66,MALE,Non-Anginal Pain,110,213,Left Ventricular Hypertrophy,99,YES,190,ABSENCE
+66,MALE,Non-Anginal Pain,120,0,ST-T wave abnormality,120,NO,84,ABSENCE
+65,MALE,Asymptomatic,150,236,ST-T wave abnormality,105,YES,174,PRESENCE
+60,MALE,Non-Anginal Pain,180,0,ST-T wave abnormality,140,YES,112,ABSENCE
+60,MALE,Non-Anginal Pain,120,0,Normal,141,YES,180,PRESENCE
+60,MALE,Atypical Angina,160,267,ST-T wave abnormality,157,NO,128,PRESENCE
+56,MALE,Atypical Angina,126,166,ST-T wave abnormality,140,NO,113,ABSENCE
+59,MALE,Asymptomatic,140,0,ST-T wave abnormality,117,YES,113,PRESENCE
+62,MALE,Asymptomatic,110,0,Normal,120,YES,74,PRESENCE
+63,MALE,Non-Anginal Pain,133,0,Left Ventricular Hypertrophy,120,YES,108,PRESENCE
+57,MALE,Asymptomatic,128,0,ST-T wave abnormality,148,YES,188,PRESENCE
+62,MALE,Asymptomatic,120,220,ST-T wave abnormality,86,NO,75,ABSENCE
+63,MALE,Asymptomatic,170,177,Normal,84,YES,114,PRESENCE
+46,MALE,Asymptomatic,110,236,Normal,125,YES,101,PRESENCE
+63,MALE,Asymptomatic,126,0,ST-T wave abnormality,120,NO,99,ABSENCE
+60,MALE,Asymptomatic,152,0,ST-T wave abnormality,118,YES,116,ABSENCE
+58,MALE,Asymptomatic,116,0,Normal,124,NO,104,PRESENCE
+64,MALE,Asymptomatic,120,0,ST-T wave abnormality,106,NO,175,PRESENCE
+63,MALE,Non-Anginal Pain,130,0,ST-T wave abnormality,111,YES,109,PRESENCE
+74,MALE,Non-Anginal Pain,138,0,Normal,116,NO,85,ABSENCE
+52,MALE,Non-Anginal Pain,128,0,ST-T wave abnormality,180,NO,82,PRESENCE
+69,MALE,Asymptomatic,130,0,ST-T wave abnormality,129,NO,150,PRESENCE
+51,MALE,Asymptomatic,128,0,ST-T wave abnormality,125,YES,139,PRESENCE
+60,MALE,Asymptomatic,130,186,ST-T wave abnormality,140,YES,137,PRESENCE
+56,MALE,Asymptomatic,120,100,Normal,120,YES,88,PRESENCE
+55,MALE,Non-Anginal Pain,136,228,ST-T wave abnormality,124,YES,97,PRESENCE
+54,MALE,Asymptomatic,130,0,ST-T wave abnormality,117,YES,95,PRESENCE
+77,MALE,Asymptomatic,124,171,ST-T wave abnormality,110,YES,106,PRESENCE
+63,MALE,Asymptomatic,160,230,Normal,105,YES,182,PRESENCE
+55,MALE,Non-Anginal Pain,0,0,Normal,155,NO,92,PRESENCE
+52,MALE,Non-Anginal Pain,122,0,Normal,110,YES,78,PRESENCE
+64,MALE,Asymptomatic,144,0,ST-T wave abnormality,122,YES,81,PRESENCE
+60,MALE,Asymptomatic,140,281,ST-T wave abnormality,118,YES,70,PRESENCE
+60,MALE,Asymptomatic,120,0,Normal,133,YES,70,ABSENCE
+58,MALE,Asymptomatic,136,203,Normal,123,YES,154,PRESENCE
+59,MALE,Asymptomatic,154,0,ST-T wave abnormality,131,YES,101,ABSENCE
+61,MALE,Non-Anginal Pain,120,0,Normal,80,YES,117,PRESENCE
+40,MALE,Asymptomatic,125,0,Normal,165,NO,121,PRESENCE
+61,MALE,Asymptomatic,134,0,ST-T wave abnormality,86,NO,136,PRESENCE
+41,MALE,Asymptomatic,104,0,ST-T wave abnormality,111,NO,108,ABSENCE
+57,MALE,Asymptomatic,139,277,ST-T wave abnormality,118,YES,184,PRESENCE
+63,MALE,Asymptomatic,136,0,Normal,84,YES,74,PRESENCE
+59,MALE,Asymptomatic,122,233,Normal,117,YES,91,PRESENCE
+51,MALE,Asymptomatic,128,0,Normal,107,NO,98,ABSENCE
+59,MALE,Non-Anginal Pain,131,0,Normal,128,YES,72,PRESENCE
+42,MALE,Non-Anginal Pain,134,240,Normal,160,NO,81,ABSENCE
+55,MALE,Non-Anginal Pain,120,0,ST-T wave abnormality,125,YES,95,PRESENCE
+63,FEMALE,Atypical Angina,132,0,Normal,130,NO,85,ABSENCE
+62,MALE,Asymptomatic,152,153,ST-T wave abnormality,97,YES,120,PRESENCE
+56,MALE,Atypical Angina,124,224,Normal,161,NO,177,ABSENCE
+53,MALE,Asymptomatic,126,0,Normal,106,NO,98,PRESENCE
+68,MALE,Asymptomatic,138,0,Normal,130,YES,83,PRESENCE
+53,MALE,Asymptomatic,154,0,ST-T wave abnormality,140,YES,189,PRESENCE
+60,MALE,Non-Anginal Pain,141,316,ST-T wave abnormality,122,YES,167,PRESENCE
+62,MALE,Atypical Angina,131,0,Normal,130,NO,118,ABSENCE
+59,MALE,Asymptomatic,178,0,Left Ventricular Hypertrophy,120,YES,182,PRESENCE
+51,MALE,Asymptomatic,132,218,Left Ventricular Hypertrophy,139,NO,189,ABSENCE
+61,MALE,Asymptomatic,110,0,Normal,108,YES,196,PRESENCE
+57,MALE,Asymptomatic,130,311,ST-T wave abnormality,148,YES,136,PRESENCE
+56,MALE,Non-Anginal Pain,170,0,Left Ventricular Hypertrophy,123,YES,95,PRESENCE
+58,MALE,Atypical Angina,126,0,Normal,110,YES,168,PRESENCE
+69,MALE,Non-Anginal Pain,140,0,ST-T wave abnormality,118,NO,159,PRESENCE
+67,MALE,Typical Angina,142,270,Normal,125,NO,153,PRESENCE
+58,MALE,Asymptomatic,120,0,Left Ventricular Hypertrophy,106,YES,99,PRESENCE
+65,MALE,Asymptomatic,134,0,Normal,112,YES,106,PRESENCE
+63,MALE,Atypical Angina,139,217,ST-T wave abnormality,128,YES,143,PRESENCE
+55,MALE,Atypical Angina,110,214,ST-T wave abnormality,180,NO,130,ABSENCE
+57,MALE,Asymptomatic,140,214,ST-T wave abnormality,144,YES,74,PRESENCE
+65,MALE,Typical Angina,140,252,Normal,135,NO,105,ABSENCE
+54,MALE,Asymptomatic,136,220,Normal,140,YES,103,PRESENCE
+72,MALE,Non-Anginal Pain,120,214,Normal,102,YES,100,PRESENCE
+75,MALE,Asymptomatic,170,203,ST-T wave abnormality,108,NO,130,PRESENCE
+49,MALE,Typical Angina,130,0,ST-T wave abnormality,145,NO,88,PRESENCE
+51,MALE,Non-Anginal Pain,137,339,Normal,127,YES,101,PRESENCE
+60,MALE,Asymptomatic,142,216,Normal,110,YES,70,PRESENCE
+64,FEMALE,Asymptomatic,142,276,Normal,140,YES,74,PRESENCE
+58,MALE,Asymptomatic,132,458,Normal,69,NO,124,ABSENCE
+61,MALE,Asymptomatic,146,241,Normal,148,YES,85,PRESENCE
+67,MALE,Asymptomatic,160,384,ST-T wave abnormality,130,YES,144,PRESENCE
+62,MALE,Asymptomatic,135,297,Normal,130,YES,85,PRESENCE
+65,MALE,Asymptomatic,136,248,Normal,140,YES,71,PRESENCE
+63,MALE,Asymptomatic,130,308,Normal,138,YES,118,PRESENCE
+69,MALE,Asymptomatic,140,208,ST-T wave abnormality,140,YES,97,PRESENCE
+51,MALE,Asymptomatic,132,227,ST-T wave abnormality,138,NO,152,ABSENCE
+62,MALE,Asymptomatic,158,210,Normal,112,YES,144,PRESENCE
+55,MALE,Non-Anginal Pain,136,245,ST-T wave abnormality,131,YES,132,PRESENCE
+75,MALE,Asymptomatic,136,225,Normal,112,YES,119,PRESENCE
+40,MALE,Non-Anginal Pain,106,240,Normal,80,YES,104,ABSENCE
+67,MALE,Asymptomatic,120,0,Normal,150,NO,153,PRESENCE
+58,MALE,Asymptomatic,110,198,Normal,110,NO,102,PRESENCE
+60,MALE,Asymptomatic,136,195,Normal,126,NO,120,ABSENCE
+63,MALE,Asymptomatic,160,267,ST-T wave abnormality,88,YES,163,PRESENCE
+35,MALE,Non-Anginal Pain,123,161,ST-T wave abnormality,153,NO,106,ABSENCE
+62,MALE,Typical Angina,112,258,ST-T wave abnormality,150,YES,81,PRESENCE
+43,MALE,Asymptomatic,122,0,Normal,120,NO,72,PRESENCE
+63,MALE,Non-Anginal Pain,130,0,ST-T wave abnormality,160,NO,185,ABSENCE
+68,MALE,Non-Anginal Pain,150,195,Normal,132,NO,153,PRESENCE
+65,MALE,Asymptomatic,150,235,Normal,120,YES,109,PRESENCE
+48,MALE,Non-Anginal Pain,102,0,ST-T wave abnormality,110,YES,194,PRESENCE
+63,MALE,Asymptomatic,96,305,ST-T wave abnormality,121,YES,112,PRESENCE
+64,MALE,Asymptomatic,130,223,ST-T wave abnormality,128,NO,113,ABSENCE
+61,MALE,Asymptomatic,120,282,ST-T wave abnormality,135,YES,98,PRESENCE
+50,MALE,Asymptomatic,144,349,Left Ventricular Hypertrophy,120,YES,82,PRESENCE
+59,MALE,Asymptomatic,124,160,Normal,117,YES,81,PRESENCE
+55,MALE,Asymptomatic,150,160,ST-T wave abnormality,150,NO,100,ABSENCE
+45,MALE,Non-Anginal Pain,130,236,Normal,144,NO,115,ABSENCE
+65,MALE,Asymptomatic,144,312,Left Ventricular Hypertrophy,113,YES,71,PRESENCE
+61,MALE,Atypical Angina,139,283,Normal,135,NO,120,ABSENCE
+49,MALE,Non-Anginal Pain,131,142,Normal,127,YES,119,PRESENCE
+72,MALE,Asymptomatic,143,211,Normal,109,YES,104,PRESENCE
+50,MALE,Asymptomatic,133,218,Normal,128,YES,92,PRESENCE
+64,MALE,Asymptomatic,143,306,ST-T wave abnormality,115,YES,128,PRESENCE
+55,MALE,Asymptomatic,116,186,ST-T wave abnormality,102,NO,146,PRESENCE
+63,MALE,Asymptomatic,110,252,ST-T wave abnormality,140,YES,79,PRESENCE
+59,MALE,Asymptomatic,125,222,Normal,135,YES,95,PRESENCE
+56,MALE,Asymptomatic,130,0,Left Ventricular Hypertrophy,122,YES,103,PRESENCE
+62,MALE,Non-Anginal Pain,133,0,ST-T wave abnormality,119,YES,127,PRESENCE
+74,MALE,Asymptomatic,150,258,ST-T wave abnormality,130,YES,188,PRESENCE
+54,MALE,Asymptomatic,130,202,Normal,112,YES,178,PRESENCE
+57,MALE,Asymptomatic,110,197,Left Ventricular Hypertrophy,100,NO,119,ABSENCE
+62,MALE,Non-Anginal Pain,138,204,ST-T wave abnormality,122,YES,114,PRESENCE
+76,MALE,Non-Anginal Pain,104,113,Left Ventricular Hypertrophy,120,NO,80,PRESENCE
+54,FEMALE,Asymptomatic,138,274,Normal,105,YES,98,PRESENCE
+70,MALE,Asymptomatic,170,192,ST-T wave abnormality,129,YES,105,PRESENCE
+61,FEMALE,Atypical Angina,140,298,Normal,120,YES,141,ABSENCE
+48,MALE,Asymptomatic,132,272,ST-T wave abnormality,139,NO,105,ABSENCE
+48,MALE,Non-Anginal Pain,132,220,ST-T wave abnormality,162,NO,130,PRESENCE
+61,MALE,Typical Angina,142,200,ST-T wave abnormality,100,NO,193,PRESENCE
+66,MALE,Asymptomatic,112,261,Normal,140,NO,93,PRESENCE
+68,MALE,Typical Angina,139,181,ST-T wave abnormality,135,NO,184,ABSENCE
+55,MALE,Asymptomatic,172,260,Normal,73,NO,104,PRESENCE
+62,MALE,Non-Anginal Pain,120,220,Left Ventricular Hypertrophy,86,NO,118,ABSENCE
+71,MALE,Non-Anginal Pain,144,221,Normal,108,YES,104,PRESENCE
+74,MALE,Typical Angina,145,216,Normal,116,YES,156,PRESENCE
+53,MALE,Non-Anginal Pain,155,175,ST-T wave abnormality,160,NO,144,ABSENCE
+58,MALE,Non-Anginal Pain,150,219,ST-T wave abnormality,118,YES,92,PRESENCE
+75,MALE,Asymptomatic,160,310,Normal,112,YES,182,ABSENCE
+56,MALE,Non-Anginal Pain,137,208,ST-T wave abnormality,122,YES,157,PRESENCE
+58,MALE,Non-Anginal Pain,137,232,ST-T wave abnormality,124,YES,81,PRESENCE
+64,MALE,Asymptomatic,134,273,Normal,102,YES,118,PRESENCE
+54,MALE,Non-Anginal Pain,133,203,ST-T wave abnormality,137,NO,82,ABSENCE
+54,MALE,Atypical Angina,132,182,ST-T wave abnormality,141,NO,92,ABSENCE
+59,MALE,Asymptomatic,140,274,Normal,154,YES,94,ABSENCE
+55,MALE,Asymptomatic,135,204,ST-T wave abnormality,126,YES,150,PRESENCE
+57,MALE,Asymptomatic,144,270,ST-T wave abnormality,160,YES,137,PRESENCE
+61,MALE,Asymptomatic,141,292,ST-T wave abnormality,115,YES,118,PRESENCE
+41,MALE,Asymptomatic,150,171,Normal,128,YES,89,ABSENCE
+71,MALE,Asymptomatic,130,221,ST-T wave abnormality,115,YES,117,PRESENCE
+38,MALE,Asymptomatic,110,289,Normal,105,YES,94,PRESENCE
+55,MALE,Asymptomatic,158,217,Normal,110,YES,91,PRESENCE
+56,MALE,Asymptomatic,128,223,ST-T wave abnormality,119,YES,82,PRESENCE
+69,MALE,Asymptomatic,140,110,Normal,109,YES,179,PRESENCE
+64,MALE,Asymptomatic,150,193,ST-T wave abnormality,135,YES,88,PRESENCE
+72,MALE,Asymptomatic,160,123,Left Ventricular Hypertrophy,130,NO,169,PRESENCE
+69,MALE,Asymptomatic,142,210,ST-T wave abnormality,112,YES,132,PRESENCE
+56,MALE,Asymptomatic,137,282,Normal,126,YES,181,PRESENCE
+62,MALE,Asymptomatic,139,170,ST-T wave abnormality,120,YES,110,PRESENCE
+67,MALE,Asymptomatic,146,369,Normal,110,YES,88,PRESENCE
+57,MALE,Asymptomatic,156,173,Left Ventricular Hypertrophy,119,YES,81,PRESENCE
+69,MALE,Asymptomatic,145,289,ST-T wave abnormality,110,YES,129,PRESENCE
+51,MALE,Asymptomatic,131,152,Left Ventricular Hypertrophy,130,YES,191,PRESENCE
+48,MALE,Asymptomatic,140,208,Normal,159,YES,97,PRESENCE
+69,MALE,Asymptomatic,122,216,Left Ventricular Hypertrophy,84,YES,198,PRESENCE
+69,MALE,Non-Anginal Pain,142,271,Left Ventricular Hypertrophy,126,NO,100,ABSENCE
+64,MALE,Asymptomatic,141,244,ST-T wave abnormality,116,YES,172,PRESENCE
+57,MALE,Atypical Angina,180,285,ST-T wave abnormality,120,NO,136,PRESENCE
+53,MALE,Asymptomatic,124,243,Normal,122,YES,74,PRESENCE
+37,MALE,Non-Anginal Pain,118,240,Left Ventricular Hypertrophy,165,NO,104,ABSENCE
+67,MALE,Asymptomatic,140,219,ST-T wave abnormality,122,YES,81,PRESENCE
+74,MALE,Non-Anginal Pain,140,237,Normal,94,NO,145,PRESENCE
+63,MALE,Atypical Angina,136,165,ST-T wave abnormality,133,NO,90,ABSENCE
+58,MALE,Asymptomatic,100,213,ST-T wave abnormality,110,NO,105,ABSENCE
+61,MALE,Asymptomatic,190,287,Left Ventricular Hypertrophy,150,YES,173,PRESENCE
+64,MALE,Asymptomatic,130,258,Left Ventricular Hypertrophy,130,NO,143,PRESENCE
+58,MALE,Asymptomatic,160,256,Left Ventricular Hypertrophy,113,YES,136,PRESENCE
+60,MALE,Asymptomatic,130,186,Left Ventricular Hypertrophy,140,YES,177,PRESENCE
+57,MALE,Asymptomatic,122,264,Left Ventricular Hypertrophy,100,NO,108,PRESENCE
+55,MALE,Non-Anginal Pain,133,185,ST-T wave abnormality,136,NO,114,ABSENCE
+55,MALE,Asymptomatic,120,226,Left Ventricular Hypertrophy,127,YES,111,PRESENCE
+56,MALE,Asymptomatic,130,203,Normal,98,NO,178,PRESENCE
+57,MALE,Asymptomatic,130,207,ST-T wave abnormality,96,YES,108,ABSENCE
+61,MALE,Non-Anginal Pain,140,284,Normal,123,YES,83,PRESENCE
+61,MALE,Non-Anginal Pain,120,337,Normal,98,YES,100,PRESENCE
+74,MALE,Asymptomatic,155,310,Normal,112,YES,74,PRESENCE
+68,MALE,Non-Anginal Pain,134,254,Normal,151,YES,155,ABSENCE
+51,FEMALE,Asymptomatic,114,258,Left Ventricular Hypertrophy,96,NO,195,ABSENCE
+62,MALE,Asymptomatic,160,254,ST-T wave abnormality,108,YES,138,PRESENCE
+53,MALE,Asymptomatic,144,300,ST-T wave abnormality,128,YES,196,PRESENCE
+62,MALE,Asymptomatic,158,170,ST-T wave abnormality,138,YES,78,PRESENCE
+46,MALE,Asymptomatic,134,310,Normal,126,NO,79,PRESENCE
+54,FEMALE,Asymptomatic,127,333,ST-T wave abnormality,154,NO,178,PRESENCE
+62,MALE,Typical Angina,135,139,ST-T wave abnormality,137,NO,113,ABSENCE
+55,MALE,Asymptomatic,122,223,ST-T wave abnormality,100,NO,137,PRESENCE
+58,MALE,Asymptomatic,140,385,Left Ventricular Hypertrophy,135,NO,127,ABSENCE
+62,MALE,Atypical Angina,120,254,Left Ventricular Hypertrophy,93,YES,115,PRESENCE
+70,MALE,Asymptomatic,130,322,Left Ventricular Hypertrophy,109,NO,82,PRESENCE
+67,FEMALE,Non-Anginal Pain,115,564,Left Ventricular Hypertrophy,160,NO,109,ABSENCE
+57,MALE,Atypical Angina,124,261,Normal,141,NO,111,PRESENCE
+64,MALE,Asymptomatic,128,263,Normal,105,YES,78,ABSENCE
+74,FEMALE,Atypical Angina,120,269,Left Ventricular Hypertrophy,121,YES,119,ABSENCE
+65,MALE,Asymptomatic,120,177,Normal,140,NO,96,ABSENCE
+56,MALE,Non-Anginal Pain,130,256,Left Ventricular Hypertrophy,142,YES,186,PRESENCE
+59,MALE,Asymptomatic,110,239,Left Ventricular Hypertrophy,142,YES,74,PRESENCE
+60,MALE,Asymptomatic,140,293,Left Ventricular Hypertrophy,170,NO,98,PRESENCE
+63,FEMALE,Asymptomatic,150,407,Left Ventricular Hypertrophy,154,NO,106,PRESENCE
+59,MALE,Asymptomatic,135,234,Normal,161,NO,107,ABSENCE
+53,MALE,Asymptomatic,142,226,Left Ventricular Hypertrophy,111,YES,88,ABSENCE
+44,MALE,Non-Anginal Pain,140,235,Left Ventricular Hypertrophy,180,NO,77,ABSENCE
+61,MALE,Typical Angina,134,234,Normal,145,NO,117,PRESENCE
+57,FEMALE,Asymptomatic,128,303,Left Ventricular Hypertrophy,159,NO,114,ABSENCE
+71,FEMALE,Asymptomatic,112,149,Normal,125,NO,70,ABSENCE
+46,MALE,Asymptomatic,140,311,Normal,120,YES,91,PRESENCE
+53,MALE,Asymptomatic,140,203,Left Ventricular Hypertrophy,155,YES,137,PRESENCE
+64,MALE,Typical Angina,110,211,Left Ventricular Hypertrophy,144,YES,76,ABSENCE
+40,MALE,Typical Angina,140,199,Normal,178,YES,94,ABSENCE
+67,MALE,Asymptomatic,120,229,Left Ventricular Hypertrophy,129,YES,114,PRESENCE
+48,MALE,Atypical Angina,130,245,Left Ventricular Hypertrophy,180,NO,73,ABSENCE
+43,MALE,Asymptomatic,115,303,Normal,181,NO,105,ABSENCE
+47,MALE,Asymptomatic,112,204,Normal,143,NO,75,ABSENCE
+54,FEMALE,Atypical Angina,132,288,Left Ventricular Hypertrophy,159,YES,151,ABSENCE
+48,FEMALE,Non-Anginal Pain,130,275,Normal,139,NO,88,ABSENCE
+46,FEMALE,Asymptomatic,138,243,Left Ventricular Hypertrophy,152,YES,113,ABSENCE
+51,FEMALE,Non-Anginal Pain,120,295,Left Ventricular Hypertrophy,157,NO,108,ABSENCE
+58,MALE,Non-Anginal Pain,112,230,Left Ventricular Hypertrophy,165,NO,96,PRESENCE
+71,FEMALE,Non-Anginal Pain,110,265,Left Ventricular Hypertrophy,130,NO,194,ABSENCE
+57,MALE,Non-Anginal Pain,128,229,Left Ventricular Hypertrophy,150,NO,95,PRESENCE
+66,MALE,Asymptomatic,160,228,Left Ventricular Hypertrophy,138,NO,88,ABSENCE
+37,FEMALE,Non-Anginal Pain,120,215,Normal,170,NO,108,ABSENCE
+59,MALE,Asymptomatic,170,326,Left Ventricular Hypertrophy,140,YES,72,PRESENCE
+50,MALE,Asymptomatic,144,200,Left Ventricular Hypertrophy,126,YES,114,PRESENCE
+48,MALE,Asymptomatic,130,256,Left Ventricular Hypertrophy,150,YES,133,PRESENCE
+61,MALE,Asymptomatic,140,207,Left Ventricular Hypertrophy,138,YES,119,PRESENCE
+59,MALE,Typical Angina,160,273,Left Ventricular Hypertrophy,125,NO,97,PRESENCE
+42,MALE,Non-Anginal Pain,130,180,Normal,150,NO,89,ABSENCE
+48,MALE,Asymptomatic,122,222,Left Ventricular Hypertrophy,186,NO,97,ABSENCE
+40,MALE,Asymptomatic,152,223,Normal,181,NO,77,PRESENCE
+62,FEMALE,Asymptomatic,124,209,Normal,163,NO,110,ABSENCE
+44,MALE,Non-Anginal Pain,130,233,Normal,179,YES,108,ABSENCE
+46,MALE,Atypical Angina,101,197,Normal,156,NO,121,ABSENCE
+59,MALE,Non-Anginal Pain,126,218,Normal,134,NO,123,PRESENCE
+58,MALE,Non-Anginal Pain,140,211,Left Ventricular Hypertrophy,165,NO,197,ABSENCE
+49,MALE,Non-Anginal Pain,118,149,Left Ventricular Hypertrophy,126,NO,97,PRESENCE
+44,MALE,Asymptomatic,110,197,Left Ventricular Hypertrophy,177,NO,118,PRESENCE
+66,MALE,Atypical Angina,160,246,Normal,120,YES,94,PRESENCE
+65,FEMALE,Asymptomatic,150,225,Left Ventricular Hypertrophy,114,NO,102,PRESENCE
+42,MALE,Asymptomatic,136,315,Normal,125,YES,107,PRESENCE
+52,MALE,Atypical Angina,128,205,Normal,184,NO,126,ABSENCE
+65,FEMALE,Non-Anginal Pain,140,417,Left Ventricular Hypertrophy,157,NO,178,ABSENCE
+63,FEMALE,Atypical Angina,140,195,Normal,179,NO,113,ABSENCE
+45,FEMALE,Atypical Angina,130,234,Left Ventricular Hypertrophy,175,NO,114,ABSENCE
+41,FEMALE,Atypical Angina,105,198,Normal,168,NO,101,ABSENCE
+61,MALE,Asymptomatic,138,166,Left Ventricular Hypertrophy,125,YES,114,PRESENCE
+60,FEMALE,Non-Anginal Pain,120,178,Normal,96,NO,181,ABSENCE
+59,FEMALE,Asymptomatic,174,249,Normal,143,YES,116,PRESENCE
+62,MALE,Atypical Angina,120,281,Left Ventricular Hypertrophy,103,NO,90,PRESENCE
+57,MALE,Non-Anginal Pain,150,126,Normal,173,NO,200,ABSENCE
+51,FEMALE,Asymptomatic,130,305,Normal,142,YES,90,PRESENCE
+44,MALE,Non-Anginal Pain,120,226,Normal,169,NO,80,ABSENCE
+60,FEMALE,Typical Angina,150,240,Normal,171,NO,106,ABSENCE
+63,MALE,Typical Angina,145,233,Left Ventricular Hypertrophy,150,NO,156,ABSENCE
+57,MALE,Asymptomatic,150,276,Left Ventricular Hypertrophy,112,YES,104,PRESENCE
+51,MALE,Asymptomatic,140,261,Left Ventricular Hypertrophy,186,YES,88,ABSENCE
+58,FEMALE,Atypical Angina,136,319,Left Ventricular Hypertrophy,152,NO,140,PRESENCE
+44,FEMALE,Non-Anginal Pain,118,242,Normal,149,NO,87,ABSENCE
+47,MALE,Non-Anginal Pain,108,243,Normal,152,NO,116,PRESENCE
+61,MALE,Asymptomatic,120,260,Normal,140,YES,110,PRESENCE
+57,FEMALE,Asymptomatic,120,354,Normal,163,YES,118,ABSENCE
+70,MALE,Atypical Angina,156,245,Left Ventricular Hypertrophy,143,NO,83,ABSENCE
+76,FEMALE,Non-Anginal Pain,140,197,ST-T wave abnormality,116,NO,84,ABSENCE
+67,FEMALE,Asymptomatic,106,223,Normal,142,NO,100,ABSENCE
+45,MALE,Asymptomatic,142,309,Left Ventricular Hypertrophy,147,YES,70,PRESENCE
+45,MALE,Asymptomatic,104,208,Left Ventricular Hypertrophy,148,YES,72,ABSENCE
+39,FEMALE,Non-Anginal Pain,94,199,Normal,179,NO,85,ABSENCE
+42,FEMALE,Non-Anginal Pain,120,209,Normal,173,NO,92,ABSENCE
+56,MALE,Atypical Angina,120,236,Normal,178,NO,80,ABSENCE
+58,MALE,Asymptomatic,146,218,Normal,105,NO,81,PRESENCE
+35,MALE,Asymptomatic,120,198,Normal,130,YES,79,PRESENCE
+58,MALE,Asymptomatic,150,270,Left Ventricular Hypertrophy,111,YES,101,PRESENCE
+41,MALE,Non-Anginal Pain,130,214,Left Ventricular Hypertrophy,168,NO,85,ABSENCE
+57,MALE,Asymptomatic,110,201,Normal,126,YES,77,ABSENCE
+42,MALE,Typical Angina,148,244,Left Ventricular Hypertrophy,178,NO,107,ABSENCE
+62,MALE,Atypical Angina,128,208,Left Ventricular Hypertrophy,140,NO,196,ABSENCE
+59,MALE,Typical Angina,178,270,Left Ventricular Hypertrophy,145,NO,93,ABSENCE
+41,FEMALE,Atypical Angina,126,306,Normal,163,NO,97,ABSENCE
+50,MALE,Asymptomatic,150,243,Left Ventricular Hypertrophy,128,NO,77,PRESENCE
+59,MALE,Atypical Angina,140,221,Normal,164,YES,97,ABSENCE
+61,FEMALE,Asymptomatic,130,330,Left Ventricular Hypertrophy,169,NO,105,PRESENCE
+54,MALE,Asymptomatic,124,266,Left Ventricular Hypertrophy,109,YES,95,PRESENCE
+54,MALE,Asymptomatic,110,206,Left Ventricular Hypertrophy,108,YES,77,PRESENCE
+52,MALE,Asymptomatic,125,212,Normal,168,NO,119,PRESENCE
+47,MALE,Asymptomatic,110,275,Left Ventricular Hypertrophy,118,YES,97,PRESENCE
+66,MALE,Asymptomatic,120,302,Left Ventricular Hypertrophy,151,NO,97,ABSENCE
+58,MALE,Asymptomatic,100,234,Normal,156,NO,106,PRESENCE
+64,FEMALE,Non-Anginal Pain,140,313,Normal,133,NO,110,ABSENCE
+50,FEMALE,Atypical Angina,120,244,Normal,162,NO,105,ABSENCE
+44,FEMALE,Non-Anginal Pain,108,141,Normal,175,NO,96,ABSENCE
+67,MALE,Asymptomatic,120,237,Normal,71,NO,86,PRESENCE
+49,FEMALE,Asymptomatic,130,269,Normal,163,NO,78,ABSENCE
+57,MALE,Asymptomatic,165,289,Left Ventricular Hypertrophy,124,NO,153,PRESENCE
+63,MALE,Asymptomatic,130,254,Left Ventricular Hypertrophy,147,NO,89,PRESENCE
+48,MALE,Asymptomatic,124,274,Left Ventricular Hypertrophy,166,NO,82,PRESENCE
+51,MALE,Non-Anginal Pain,100,222,Normal,143,YES,97,ABSENCE
+60,FEMALE,Asymptomatic,150,258,Left Ventricular Hypertrophy,157,NO,117,PRESENCE
+59,MALE,Asymptomatic,140,177,Normal,162,YES,98,PRESENCE
+45,FEMALE,Atypical Angina,112,160,Normal,138,NO,82,ABSENCE
+55,FEMALE,Asymptomatic,180,327,ST-T wave abnormality,117,YES,115,PRESENCE
+41,MALE,Atypical Angina,110,235,Normal,153,NO,104,ABSENCE
+60,FEMALE,Asymptomatic,158,305,Left Ventricular Hypertrophy,161,NO,75,PRESENCE
+54,FEMALE,Non-Anginal Pain,135,304,Normal,170,NO,189,ABSENCE
+42,MALE,Atypical Angina,120,295,Normal,162,NO,116,ABSENCE
+49,FEMALE,Atypical Angina,134,271,Normal,162,NO,94,ABSENCE
+46,MALE,Asymptomatic,120,249,Left Ventricular Hypertrophy,144,NO,71,PRESENCE
+56,FEMALE,Asymptomatic,200,288,Left Ventricular Hypertrophy,133,YES,130,PRESENCE
+66,FEMALE,Typical Angina,150,226,Normal,114,NO,99,ABSENCE
+56,MALE,Asymptomatic,130,283,Left Ventricular Hypertrophy,103,YES,125,PRESENCE
+49,MALE,Non-Anginal Pain,120,188,Normal,139,NO,102,PRESENCE
+54,MALE,Asymptomatic,122,286,Left Ventricular Hypertrophy,116,YES,70,PRESENCE
+57,MALE,Asymptomatic,152,274,Normal,88,YES,87,PRESENCE
+65,FEMALE,Non-Anginal Pain,160,360,Left Ventricular Hypertrophy,151,NO,101,ABSENCE
+54,MALE,Non-Anginal Pain,125,273,Left Ventricular Hypertrophy,152,NO,116,ABSENCE
+54,FEMALE,Non-Anginal Pain,160,201,Normal,163,NO,118,ABSENCE
+62,MALE,Asymptomatic,120,267,Normal,99,YES,80,PRESENCE
+52,FEMALE,Non-Anginal Pain,136,196,Left Ventricular Hypertrophy,169,NO,90,ABSENCE
+52,MALE,Atypical Angina,134,201,Normal,158,NO,95,ABSENCE
+60,MALE,Asymptomatic,117,230,Normal,160,YES,183,PRESENCE
+63,FEMALE,Asymptomatic,108,269,Normal,169,YES,94,PRESENCE
+66,MALE,Asymptomatic,112,212,Left Ventricular Hypertrophy,132,YES,91,PRESENCE
+42,MALE,Asymptomatic,140,226,Normal,178,NO,96,ABSENCE
+64,MALE,Asymptomatic,120,246,Left Ventricular Hypertrophy,96,YES,118,PRESENCE
+54,MALE,Non-Anginal Pain,150,232,Left Ventricular Hypertrophy,165,NO,82,ABSENCE
+46,FEMALE,Non-Anginal Pain,142,177,Left Ventricular Hypertrophy,160,YES,102,ABSENCE
+67,FEMALE,Non-Anginal Pain,152,277,Normal,172,NO,103,ABSENCE
+56,MALE,Asymptomatic,125,249,Left Ventricular Hypertrophy,144,YES,121,PRESENCE
+34,FEMALE,Atypical Angina,118,210,Normal,192,NO,90,ABSENCE
+57,MALE,Asymptomatic,132,207,Normal,168,YES,117,ABSENCE
+64,MALE,Asymptomatic,145,212,Left Ventricular Hypertrophy,132,NO,75,PRESENCE
+59,MALE,Asymptomatic,138,271,Left Ventricular Hypertrophy,182,NO,97,ABSENCE
+50,MALE,Non-Anginal Pain,140,233,Normal,163,NO,86,PRESENCE
+51,MALE,Typical Angina,125,213,Left Ventricular Hypertrophy,125,YES,74,ABSENCE
+54,MALE,Atypical Angina,192,283,Left Ventricular Hypertrophy,195,NO,100,PRESENCE
+53,MALE,Asymptomatic,123,282,Normal,95,YES,74,PRESENCE
+52,MALE,Asymptomatic,112,230,Normal,160,NO,107,PRESENCE
+40,MALE,Asymptomatic,110,167,Left Ventricular Hypertrophy,114,YES,72,PRESENCE
+58,MALE,Non-Anginal Pain,132,224,Left Ventricular Hypertrophy,173,NO,92,PRESENCE
+41,FEMALE,Non-Anginal Pain,112,268,Left Ventricular Hypertrophy,172,YES,106,ABSENCE
+41,MALE,Non-Anginal Pain,112,250,Normal,179,NO,106,ABSENCE
+50,FEMALE,Non-Anginal Pain,120,219,Normal,158,NO,79,ABSENCE
+54,FEMALE,Non-Anginal Pain,108,267,Left Ventricular Hypertrophy,167,NO,79,ABSENCE
+64,FEMALE,Asymptomatic,130,303,Normal,122,NO,88,ABSENCE
+51,FEMALE,Non-Anginal Pain,130,256,Left Ventricular Hypertrophy,149,NO,86,ABSENCE
+46,FEMALE,Atypical Angina,105,204,Normal,172,NO,90,ABSENCE
+55,MALE,Asymptomatic,140,217,Normal,111,YES,83,PRESENCE
+45,MALE,Atypical Angina,128,308,Left Ventricular Hypertrophy,170,NO,78,ABSENCE
+56,MALE,Typical Angina,120,193,Left Ventricular Hypertrophy,162,NO,115,ABSENCE
+66,FEMALE,Asymptomatic,178,228,Normal,165,YES,121,PRESENCE
+38,MALE,Typical Angina,120,231,Normal,182,YES,120,PRESENCE
+62,FEMALE,Asymptomatic,150,244,Normal,154,YES,114,PRESENCE
+55,MALE,Atypical Angina,130,262,Normal,155,NO,82,ABSENCE
+58,MALE,Asymptomatic,128,259,Left Ventricular Hypertrophy,130,YES,73,PRESENCE
+43,MALE,Asymptomatic,110,211,Normal,161,NO,70,ABSENCE
+64,FEMALE,Asymptomatic,180,325,Normal,154,YES,118,ABSENCE
+50,FEMALE,Asymptomatic,110,254,Left Ventricular Hypertrophy,159,NO,109,ABSENCE
+53,MALE,Non-Anginal Pain,130,197,Left Ventricular Hypertrophy,152,NO,152,ABSENCE
+45,FEMALE,Asymptomatic,138,236,Left Ventricular Hypertrophy,152,YES,103,ABSENCE
+65,MALE,Typical Angina,138,282,Left Ventricular Hypertrophy,174,NO,192,PRESENCE
+69,MALE,Typical Angina,160,234,Left Ventricular Hypertrophy,131,NO,159,ABSENCE
+69,MALE,Non-Anginal Pain,140,254,Left Ventricular Hypertrophy,146,NO,95,PRESENCE
+67,MALE,Asymptomatic,100,299,Left Ventricular Hypertrophy,125,YES,103,PRESENCE
+68,FEMALE,Non-Anginal Pain,120,211,Left Ventricular Hypertrophy,115,NO,72,ABSENCE
+34,MALE,Typical Angina,118,182,Left Ventricular Hypertrophy,174,NO,119,ABSENCE
+62,FEMALE,Asymptomatic,138,294,Normal,106,NO,132,PRESENCE
+51,MALE,Asymptomatic,140,298,Normal,122,YES,70,PRESENCE
+46,MALE,Non-Anginal Pain,150,231,Normal,147,NO,113,PRESENCE
+67,MALE,Asymptomatic,125,254,Normal,163,NO,125,PRESENCE
+50,MALE,Non-Anginal Pain,129,196,Normal,163,NO,99,ABSENCE
+42,MALE,Non-Anginal Pain,120,240,Normal,194,NO,177,ABSENCE
+56,FEMALE,Asymptomatic,134,409,Left Ventricular Hypertrophy,150,YES,86,PRESENCE
+41,MALE,Asymptomatic,110,172,Left Ventricular Hypertrophy,158,NO,117,PRESENCE
+42,FEMALE,Asymptomatic,102,265,Left Ventricular Hypertrophy,122,NO,116,ABSENCE
+53,MALE,Non-Anginal Pain,130,246,Left Ventricular Hypertrophy,173,NO,143,ABSENCE
+43,MALE,Non-Anginal Pain,130,315,Normal,162,NO,84,ABSENCE
+56,MALE,Asymptomatic,132,184,Left Ventricular Hypertrophy,105,YES,106,PRESENCE
+52,MALE,Asymptomatic,108,233,Normal,147,NO,134,ABSENCE
+62,FEMALE,Asymptomatic,140,394,Left Ventricular Hypertrophy,157,NO,71,ABSENCE
+70,MALE,Non-Anginal Pain,160,269,Normal,112,YES,80,PRESENCE
+54,MALE,Asymptomatic,140,239,Normal,160,NO,120,ABSENCE
+70,MALE,Asymptomatic,145,174,Normal,125,YES,108,PRESENCE
+54,MALE,Atypical Angina,108,309,Normal,156,NO,107,ABSENCE
+35,MALE,Asymptomatic,126,282,Left Ventricular Hypertrophy,156,YES,103,PRESENCE
+48,MALE,Non-Anginal Pain,124,255,Normal,175,NO,158,ABSENCE
+55,FEMALE,Atypical Angina,135,250,Left Ventricular Hypertrophy,161,NO,119,ABSENCE
+58,FEMALE,Asymptomatic,100,248,Left Ventricular Hypertrophy,122,NO,103,ABSENCE
+54,FEMALE,Non-Anginal Pain,110,214,Normal,158,NO,87,ABSENCE
+69,FEMALE,Typical Angina,140,239,Normal,151,NO,99,ABSENCE
+77,MALE,Asymptomatic,125,304,Left Ventricular Hypertrophy,162,YES,84,PRESENCE
+68,MALE,Non-Anginal Pain,118,277,Normal,151,NO,96,ABSENCE
+58,MALE,Asymptomatic,125,300,Left Ventricular Hypertrophy,171,NO,120,PRESENCE
+60,MALE,Asymptomatic,125,258,Left Ventricular Hypertrophy,141,YES,103,PRESENCE
+51,MALE,Asymptomatic,140,299,Normal,173,YES,107,PRESENCE
+55,MALE,Asymptomatic,160,289,Left Ventricular Hypertrophy,145,YES,102,PRESENCE
+52,MALE,Typical Angina,152,298,Normal,178,NO,199,ABSENCE
+60,FEMALE,Non-Anginal Pain,102,318,Normal,160,NO,99,ABSENCE
+58,MALE,Non-Anginal Pain,105,240,Left Ventricular Hypertrophy,154,YES,111,ABSENCE
+64,MALE,Non-Anginal Pain,125,309,Normal,131,YES,120,PRESENCE
+37,MALE,Non-Anginal Pain,130,250,Normal,187,NO,86,ABSENCE
+59,MALE,Typical Angina,170,288,Left Ventricular Hypertrophy,159,NO,74,PRESENCE
+51,MALE,Non-Anginal Pain,125,245,Left Ventricular Hypertrophy,166,NO,149,ABSENCE
+43,FEMALE,Non-Anginal Pain,122,213,Normal,165,NO,73,ABSENCE
+58,MALE,Asymptomatic,128,216,Left Ventricular Hypertrophy,131,YES,79,PRESENCE
+29,MALE,Atypical Angina,130,204,Left Ventricular Hypertrophy,202,NO,86,ABSENCE
+41,FEMALE,Atypical Angina,130,204,Left Ventricular Hypertrophy,172,NO,79,ABSENCE
+63,FEMALE,Non-Anginal Pain,135,252,Left Ventricular Hypertrophy,172,NO,86,ABSENCE
+51,MALE,Non-Anginal Pain,94,227,Normal,154,YES,89,ABSENCE
+54,MALE,Non-Anginal Pain,120,258,Left Ventricular Hypertrophy,147,NO,93,ABSENCE
+44,MALE,Atypical Angina,120,220,Normal,170,NO,74,ABSENCE
+54,MALE,Asymptomatic,110,239,Normal,126,YES,103,PRESENCE
+65,MALE,Asymptomatic,135,254,Left Ventricular Hypertrophy,127,NO,75,PRESENCE
+57,MALE,Non-Anginal Pain,150,168,Normal,174,NO,71,ABSENCE
+63,MALE,Asymptomatic,130,330,Left Ventricular Hypertrophy,132,YES,197,PRESENCE
+35,FEMALE,Asymptomatic,138,183,Normal,182,NO,112,ABSENCE
+41,MALE,Atypical Angina,135,203,Normal,132,NO,112,ABSENCE
+62,FEMALE,Non-Anginal Pain,130,263,Normal,97,NO,117,PRESENCE
+43,FEMALE,Asymptomatic,132,341,Left Ventricular Hypertrophy,136,YES,195,PRESENCE
+58,FEMALE,Typical Angina,150,283,Left Ventricular Hypertrophy,162,NO,143,ABSENCE
+52,MALE,Typical Angina,118,186,Left Ventricular Hypertrophy,190,NO,85,ABSENCE
+61,FEMALE,Asymptomatic,145,307,Left Ventricular Hypertrophy,146,YES,100,PRESENCE
+39,MALE,Asymptomatic,118,219,Normal,140,NO,80,PRESENCE
+45,MALE,Asymptomatic,115,260,Left Ventricular Hypertrophy,185,NO,85,ABSENCE
+52,MALE,Asymptomatic,128,255,Normal,161,YES,77,PRESENCE
+62,MALE,Non-Anginal Pain,130,231,Normal,146,NO,73,ABSENCE
+62,FEMALE,Asymptomatic,160,164,Left Ventricular Hypertrophy,145,NO,109,PRESENCE
+53,FEMALE,Asymptomatic,138,234,Left Ventricular Hypertrophy,160,NO,73,ABSENCE
+43,MALE,Asymptomatic,120,177,Left Ventricular Hypertrophy,120,YES,94,PRESENCE
+47,MALE,Non-Anginal Pain,138,257,Left Ventricular Hypertrophy,156,NO,72,ABSENCE
+52,MALE,Atypical Angina,120,325,Normal,172,NO,101,ABSENCE
+68,MALE,Non-Anginal Pain,180,274,Left Ventricular Hypertrophy,150,YES,187,PRESENCE
+39,MALE,Non-Anginal Pain,140,321,Left Ventricular Hypertrophy,182,NO,96,ABSENCE
+53,FEMALE,Asymptomatic,130,264,Left Ventricular Hypertrophy,143,NO,98,ABSENCE
+62,FEMALE,Asymptomatic,140,268,Left Ventricular Hypertrophy,160,NO,101,PRESENCE
+51,FEMALE,Non-Anginal Pain,140,308,Left Ventricular Hypertrophy,142,NO,119,ABSENCE
+60,MALE,Asymptomatic,130,253,Normal,144,YES,120,PRESENCE
+65,MALE,Asymptomatic,110,248,Left Ventricular Hypertrophy,158,NO,88,PRESENCE
+65,FEMALE,Non-Anginal Pain,155,269,Normal,148,NO,90,ABSENCE
+60,MALE,Non-Anginal Pain,140,185,Left Ventricular Hypertrophy,155,NO,74,PRESENCE
+60,MALE,Asymptomatic,145,282,Left Ventricular Hypertrophy,142,YES,87,PRESENCE
+54,MALE,Asymptomatic,120,188,Normal,113,NO,97,PRESENCE
+44,MALE,Atypical Angina,130,219,Left Ventricular Hypertrophy,188,NO,111,ABSENCE
+44,MALE,Asymptomatic,112,290,Left Ventricular Hypertrophy,153,NO,91,PRESENCE
+51,MALE,Non-Anginal Pain,110,175,Normal,123,NO,90,ABSENCE
+59,MALE,Non-Anginal Pain,150,212,Normal,157,NO,190,ABSENCE
+71,FEMALE,Atypical Angina,160,302,Normal,162,NO,70,ABSENCE
+61,MALE,Non-Anginal Pain,150,243,Normal,137,YES,125,ABSENCE
+55,MALE,Asymptomatic,132,353,Normal,132,YES,110,PRESENCE
+64,MALE,Non-Anginal Pain,140,335,Normal,158,NO,81,PRESENCE
+43,MALE,Asymptomatic,150,247,Normal,171,NO,95,ABSENCE
+58,FEMALE,Non-Anginal Pain,120,340,Normal,172,NO,115,ABSENCE
+60,MALE,Asymptomatic,130,206,Left Ventricular Hypertrophy,132,YES,103,PRESENCE
+58,MALE,Atypical Angina,120,284,Left Ventricular Hypertrophy,160,NO,118,PRESENCE
+49,MALE,Atypical Angina,130,266,Normal,171,NO,83,ABSENCE
+48,MALE,Atypical Angina,110,229,Normal,168,NO,95,PRESENCE
+52,MALE,Non-Anginal Pain,172,199,Normal,162,NO,165,ABSENCE
+44,MALE,Atypical Angina,120,263,Normal,173,NO,96,ABSENCE
+56,FEMALE,Atypical Angina,140,294,Left Ventricular Hypertrophy,153,NO,78,ABSENCE
+57,MALE,Asymptomatic,140,192,Normal,148,NO,95,ABSENCE
+67,MALE,Asymptomatic,160,286,Left Ventricular Hypertrophy,108,YES,116,PRESENCE
+53,FEMALE,Non-Anginal Pain,128,216,Left Ventricular Hypertrophy,115,NO,91,ABSENCE
+52,MALE,Non-Anginal Pain,138,223,Normal,169,NO,116,ABSENCE
+43,MALE,Asymptomatic,132,247,Left Ventricular Hypertrophy,143,YES,176,PRESENCE
+52,MALE,Asymptomatic,128,204,Normal,156,YES,183,PRESENCE
+59,MALE,Typical Angina,134,204,Normal,162,NO,117,PRESENCE
+64,MALE,Typical Angina,170,227,Left Ventricular Hypertrophy,155,NO,86,ABSENCE
+66,FEMALE,Non-Anginal Pain,146,278,Left Ventricular Hypertrophy,152,NO,95,ABSENCE
+39,FEMALE,Non-Anginal Pain,138,220,Normal,152,NO,105,ABSENCE
+57,MALE,Atypical Angina,154,232,Left Ventricular Hypertrophy,164,NO,70,PRESENCE
+58,FEMALE,Asymptomatic,130,197,Normal,131,NO,77,ABSENCE
+57,MALE,Asymptomatic,110,335,Normal,143,YES,118,PRESENCE
+47,MALE,Non-Anginal Pain,130,253,Normal,179,NO,104,ABSENCE
+55,FEMALE,Asymptomatic,128,205,ST-T wave abnormality,130,YES,84,PRESENCE
+35,MALE,Atypical Angina,122,192,Normal,174,NO,116,ABSENCE
+61,MALE,Asymptomatic,148,203,Normal,161,NO,91,PRESENCE
+58,MALE,Asymptomatic,114,318,ST-T wave abnormality,140,NO,83,PRESENCE
+58,FEMALE,Asymptomatic,170,225,Left Ventricular Hypertrophy,146,YES,148,PRESENCE
+58,MALE,Atypical Angina,125,220,Normal,144,NO,92,ABSENCE
+56,MALE,Atypical Angina,130,221,Left Ventricular Hypertrophy,163,NO,83,ABSENCE
+56,MALE,Atypical Angina,120,240,Normal,169,NO,93,ABSENCE
+67,MALE,Non-Anginal Pain,152,212,Left Ventricular Hypertrophy,150,NO,71,PRESENCE
+55,FEMALE,Atypical Angina,132,342,Normal,166,NO,114,ABSENCE
+44,MALE,Asymptomatic,120,169,Normal,144,YES,95,PRESENCE
+63,MALE,Asymptomatic,140,187,Left Ventricular Hypertrophy,144,YES,83,PRESENCE
+63,FEMALE,Asymptomatic,124,197,Normal,136,YES,120,PRESENCE
+41,MALE,Atypical Angina,120,157,Normal,182,NO,76,ABSENCE
+59,MALE,Asymptomatic,164,176,Left Ventricular Hypertrophy,90,NO,123,PRESENCE
+57,FEMALE,Asymptomatic,140,241,Normal,123,YES,116,PRESENCE
+45,MALE,Typical Angina,110,264,Normal,132,NO,92,PRESENCE
+68,MALE,Asymptomatic,144,193,Normal,141,NO,138,PRESENCE
+57,MALE,Asymptomatic,130,131,Normal,115,YES,107,PRESENCE
+57,FEMALE,Atypical Angina,130,236,Left Ventricular Hypertrophy,174,NO,104,PRESENCE
+38,MALE,Non-Anginal Pain,138,175,Normal,173,NO,120,ABSENCE
